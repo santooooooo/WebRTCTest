@@ -1,2 +1,2 @@
 # WebRTCTest
-WebRTCを実行できるリポジトリ
+WebRTC（Skyway）をお手軽に実行できるリポジトリ
