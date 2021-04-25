@@ -1,0 +1,3 @@
+[submodule "skyway-js-sdk"]
+	path = skyway-js-sdk
+	url = https://github.com/skyway/skyway-js-sdk.git
